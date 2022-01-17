@@ -1,0 +1,7 @@
+// Attached object raw code/exported file converted with [FS]Attached Object Editor (Version:0.3 - Îêòÿáðü, 2017) for SA:MP 0.3e and upper
+// Each attached object(s)/set file has the creation and information log above the code
+// By default, the log shows the name of player who converted the file and time with format DD/MM/YYYY - HH:MM:SS
+// Copy and paste the raw code(s) below, you can change the index parameter with valid slot number (0-9)!
+
+/* "tuning_other_pao.ini" converted by Graham_Coxon on 27/09/2018 - 21:02:36 */
+SetPlayerAttachedObject(playerid, 0, 19832, 3, 0.4329, -0.4319, -0.1679, 0.0000, -90.1999, 17.7000, 1.0000, 1.0000, 1.0000, 0, 0); // "tuning_other" by Graham_Coxon (Skin:1)

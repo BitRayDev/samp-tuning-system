@@ -1,0 +1,5 @@
+
+ApplyAnimation(playerid, "BOMBER", "BOM_PLANT_LOOP", 4.1, false, false, false, false, 0, false); // addcomponent
+ApplyAnimation(playerid, "CARRY", "LIFTUP", 4.1, false, false, false, false, 0, false); // pickup
+
+8, 42, 50, 268
